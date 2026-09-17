@@ -1,0 +1,7 @@
+{
+  "name": "backend-vercel-esp32",
+  "version": "1.0.0",
+  "dependencies": {
+    "@upstash/redis": "^1.34.3"
+  }
+}
